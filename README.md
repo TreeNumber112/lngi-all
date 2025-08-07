@@ -1,1 +1,1 @@
-# lngi-all
+# LNGI Everything

@@ -1,0 +1,31 @@
+a {
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    animation: color 3s infinite;
+}
+
+@keyframes color {
+    0%, 100% {
+        color: red;
+    }
+    15% {
+        color: orange;
+    }
+    30% {
+        color: yellow;
+    }
+    45% {
+        color: green;
+    }
+    60% {
+        color: blue;
+    }
+    75% {
+        color: indigo;
+    }
+    90% {
+        color: violet;
+    }
+}
